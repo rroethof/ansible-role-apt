@@ -1,0 +1,8 @@
+---
+- hosts: localhost
+  remote_user: root
+  vars:
+    apt_install: [cowsay]
+  roles:
+    - ansible-role-apt
+  tags: apt
