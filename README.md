@@ -1,6 +1,6 @@
 # APT 
 
-[![Build Status](https://travis-ci.org/rroethof/ansible-apache2.svg?branch=master)](https://travis-ci.org/rroethof/ansible-apache2)
+[![Build Status](https://travis-ci.org/rroethof/ansible-apt.svg?branch=master)](https://travis-ci.org/rroethof/ansible-apt)
 
 Ansible role for execute apt-get update and install apt-repositories and apt-packages.
 
